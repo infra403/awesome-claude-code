@@ -35,7 +35,9 @@ Claude Code 插件和扩展。
 
 实用工具和脚本推荐。
 
-> 即将推出...
+| 工具 | 描述 | 链接 |
+|------|------|------|
+| **Ruler** | AI 编码代理配置统一管理工具，支持 30+ 代理（包括 Claude Code），通过单一 `.ruler/` 目录自动生成各代理的配置文件，解决多工具配置同步问题 | [GitHub](https://github.com/intellectronica/ruler) |
 
 ## 使用技巧
 
