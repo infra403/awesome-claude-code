@@ -86,6 +86,7 @@ awesome-claude-code/
 
 - [Claude Code 官方文档](https://docs.anthropic.com/en/docs/claude-code)
 - [Claude Code GitHub](https://github.com/anthropics/claude-code)
+- [Claude Android 应用](https://play.google.com/store/apps/details?id=com.anthropic.claude) - 移动端 Claude，已支持 Claude Code 功能
 - [Anthropic API 文档](https://docs.anthropic.com/)
 
 ## License
