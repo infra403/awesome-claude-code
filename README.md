@@ -38,6 +38,7 @@ Claude Code 插件和扩展。
 | 工具 | 描述 | 链接 |
 |------|------|------|
 | **Ruler** | AI 编码代理配置统一管理工具，支持 30+ 代理（包括 Claude Code），通过单一 `.ruler/` 目录自动生成各代理的配置文件，解决多工具配置同步问题 | [GitHub](https://github.com/intellectronica/ruler) |
+| **Rover** | AI 编码代理并行任务管理器，支持 Claude Code/Cursor/Gemini/Codex 等在隔离容器中同时处理多个任务，互不干扰 | [GitHub](https://github.com/endorhq/rover) |
 
 ## 使用技巧
 
